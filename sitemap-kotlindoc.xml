@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/TaskCollectorEnricherType</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/urlresolver</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/urlresolver/TasklistUrlResolver</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/process/instance</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/process/instance/StartProcessInstanceCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/process/instance/ProcessInstanceCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/process/instance/EndProcessInstanceCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/process/definition</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/process/definition/ProcessDefinitionCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/process/definition/RegisterProcessDefinitionCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/DataEntryChange</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/WithCorrelations</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/DataEntryState</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/Modification</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/DataIdentity</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/CreateDataEntryCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/UpdateDataEntryCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/AddAuthorization</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/DataEntryStateImpl</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/CreateOrUpdateDataEntryCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/EntryId</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/WithPayload</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/CorrelationMap</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/EntryType</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/ProcessingType</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/AuthorizationChange</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/business/RemoveAuthorization</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/UpdateAttributeTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/AddCandidateUsersCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/EngineTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/SourceReference</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/AssignTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/ClaimInteractionTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/CompleteTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/AddCandidateGroupsCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/UndeferInteractionTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/EngineTaskCommandSorter</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/WithTaskId</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/CreateTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/InteractionTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/WithFormKey</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/CaseReference</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/TaskIdentityWithPayloadAndCorrelations</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/DeleteCandidateUsersCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/WithPayload</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/CompleteInteractionTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/DeleteTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/UnclaimInteractionTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/CamundaTaskEventType</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/TaskIdentity</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/UpdateAssignmentTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/ProcessReference</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/DeferInteractionTaskCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/api/task/DeleteCandidateGroupsCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/ProcessInstanceProperties</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/FallbackTasklistUrlResolverConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/TaskCollectorEnricherProperties</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/EnableTaskPool</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/process</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/process/ProcessDefinitionAggregate</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/process/ProcessInstanceAggregate</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/process/CreateProcessDefinitionCommandHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/KotlinTypeInfo</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/TaskPoolCoreConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/task</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/task/CreateTaskCommandHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/core/task/TaskAggregate</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/TaskCollectorConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/KotlinTypeInfo</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/TaskSenderProperties</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/CommandSender</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/TxAwareAccumulatingEngineTaskCommandSender</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/gateway</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/gateway/CommandListGateway</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/gateway/LoggingTaskCommandSuccessHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/gateway/LoggingTaskCommandErrorHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/gateway/AxonCommandListGateway</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/gateway/CommandErrorHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/gateway/CommandSuccessHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/InvertingCommandAccumulator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/EngineCommandProjectionErrorDetector</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/PropertyOperation</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/ProjectingCommandAccumulator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/SortingCommandAccumulator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/Mapper</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/CommandAccumulator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/DirectCommandAccumulator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/ProjectionErrorDetector</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/Unmapper</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/sender/accumulator/PropertyOperationConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/FallbackProcessVariablesFilterConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/ProcessDefinitionProperties</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/process/instance</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/process/instance/ProcessInstanceEventCollectorService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/process/definition</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/process/definition/RegisterProcessDefinitionParseListener</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/process/definition/RefreshProcessDefinitionsJobCommand</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/process/definition/RefreshProcessDefinitionsJobConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/process/definition/ProcessDefinitionEnginePlugin</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/process/definition/RefreshProcessDefinitionsJobHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/process/definition/ProcessDefinitionService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/task</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/collector/task/TaskEventCollectorService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/TaskSenderType</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/ProcessDefinitionKey</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/TaskVariableFilter</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/EmptyTaskCommandEnricher</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/ProcessVariableCorrelation</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/TaskDefinitionKey</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/FilterType</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/ProcessVariablesTaskCommandEnricher</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/VariableFilter</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/TaskCommandEnricherService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/ProcessVariablesFilter</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/ProcessVariableFilter</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/VariableName</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/VariablesEnricher</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/ProcessInstanceEnricherService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/enricher/ProcessVariablesCorrelator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/DataEntry</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/ProcessDefinition</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/auth</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/auth/User</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/auth/UnknownUserException</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/auth/UserService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/TaskWithDataEntries</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/ProtocolEntry</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/FormUrlResolver</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter/Criterion</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter/Criterion/EmptyCriterion</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter/Criterion/DataEntryCriterion</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter/Criterion/PayloadEntryCriterion</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter/Criterion/TaskCriterion</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter/DataEntryPredicateWrapper</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter/TaskPredicateWrapper</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter/PropertyValuePredicate</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/filter/CompareOperator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/EnableTaskPoolSimpleView</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/service</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/service/ProcessInstanceSimpleService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/service/DataEntrySimpleService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/service/TaskPoolService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/service/SimpleServiceViewProcessingGroup</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/service/RevisionSupport</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/service/ProcessDefinitionSimpleService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/TaskPoolSimpleViewConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/sort</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/sort/DataEntryComparator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/sort/TasksWithDataEntriesComparator</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/sort/CompareMode</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/simple/sort/SortDirection</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/Task</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/ProcessInstance</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/TaskPoolMongoViewConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/EnableTaskPoolMongoView</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/service</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/service/Criterion</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/service/Criterion/EmptyCriterion</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/service/Criterion/DataEntryCriterion</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/service/Criterion/TaskCriterion</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/service/TaskChangeTracker</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/service/ProcessDefinitionMongoService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/service/TaskPoolMongoService</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/ChangeTrackingMode</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/TaskPoolMongoViewProperties</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/TaskCountByApplicationRepositoryExtension</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/ReferenceDocument</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/DataEntryDocument</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/ProcessReferenceDocument</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/TaskWithDataEntriesRepositoryExtensionImpl</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/TaskCountByApplicationRepositoryExtensionImpl</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/TaskDocument</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/ProtocolElement</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/DataEntryRepository</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/ProcessDefinitionDocument</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/ProcessDefinitionRepository</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/TaskWithDataEntriesDocument</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/CaseReferenceDocument</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/TaskRepository</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/TaskWithDataEntriesRepository</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/mongo/repository/TaskWithDataEntriesRepositoryExtension</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/ProcessInstanceState</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/process</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/process/ReactiveProcessDefinitionApi</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/process/ProcessDefinitionsStartableByUserQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/process/ProcessDefinitionApi</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/process/ProcessInstancesByStateQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/process/ProcessInstanceQueryResult</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/process/ProcessInstanceApi</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/data</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/data/DataEntriesQueryResult</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/data/ReactiveDataEntryApi</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/data/DataEntryApi</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/data/QueryDataIdentity</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/data/DataEntryForIdentityQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/data/DataEntriesForUserQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/data/DataEntriesQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/PageableSortableQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/QueryResult</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/FilterQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/ReactiveTaskApi</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/TasksWithDataEntriesQueryResult</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/TasksForApplicationQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/TaskWithDataEntriesForIdQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/TasksForUserQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/TaskForIdQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/TaskQueryResult</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/TaskCountByApplicationQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/TaskApi</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/TasksWithDataEntriesForUserQuery</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/view/query/task/ApplicationWithTaskCount</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/EnableTaskCollector</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/EnableTaskpoolEngineSupport</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/TaskCollectorProperties</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/TaskpoolEngineSupportConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/taskpool/FallbackProcessVariablesCorrelatorConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/client</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/client/process</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/client/process/ProcessStarter</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/client/task</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/client/task/TaskEventHandlers</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/client/CamundaEngineClientConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/client/EnableCamundaEngineClient</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/DataEntrySenderType</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/projector</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/projector/DataEntryProjectionSupplier</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/projector/DataEntryProjector</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/EnableDataEntryCollector</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/core</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/core/DataPoolCoreConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/core/business</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/core/business/CreateOrUpdateCommandHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/core/business/upcaster</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/core/business/upcaster/DataEntryCreatedEventUpcaster</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/core/business/DataEntryAggregate</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/core/EnableDataPool</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/sender</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/sender/SimpleDataEntryCommandSender</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/sender/DataEntryCommandSender</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/sender/LoggingCommandSuccessHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/sender/DataEntryCommandErrorHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/sender/DataEntryCommandSuccessHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/sender/LoggingCommandErrorHandler</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/DataEntrySenderConfiguration</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/datapool/DataEntrySenderProperties</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-taskpool/io/holunda/camunda/variable/serializer</loc>
+        <lastmod>2020-10-11</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    
+</urlset>
